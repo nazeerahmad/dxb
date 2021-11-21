@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidApps/HiCare/app/src/main/res/drawable-v24/cornerlogin.xml" value="0.19282051282051282" />
+        <entry key="..\:/AndroidApps/HiCare/app/src/main/res/drawable/cornerlogin.xml" value="0.19282051282051282" />
+        <entry key="..\:/AndroidApps/HiCare/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/HiCare/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/HiCare/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/HiCare/app/src/main/res/layout/progress_dialog.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/drawable/circle_blue.xml" value="0.19583333333333333" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/layout/activity_dashboard.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/layout/bottom_nav.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/layout/fragment_new_order.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/layout/fragment_notification.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/layout/fragment_orders.xml" value="0.1796875" />
+        <entry key="..\:/AndroidApps/dxb/app/src/main/res/menu/bottom_menu.xml" value="0.1796875" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26296296296296295" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable-xxhdpi/circle.xml" value="0.15416666666666667" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable-xxhdpi/topcorner.xml" value="0.15416666666666667" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable/circle_blue.xml" value="0.26296296296296295" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable/cornerlogin.xml" value="0.26296296296296295" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.26296296296296295" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable/ic_baseline_computer_24.xml" value="0.26296296296296295" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable/ic_baseline_supervised_user_circle_24.xml" value="0.26296296296296295" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26296296296296295" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable/rounded blue.xml" value="0.26296296296296295" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/drawable/roundedblue.xml" value="0.26296296296296295" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/layout/activity_login.xml" value="0.13802083333333334" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/layout/activity_main.xml" value="0.13802083333333334" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/layout/activity_splash.xml" value="0.13802083333333334" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/layout/fragment_my_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/layout/fragment_new_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/layout/fragment_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/layout/fragment_orders.xml" value="0.25416666666666665" />
+        <entry key="..\:/Current User Data/Desktop/spine codepush/testCode/dxb/app/src/main/res/menu/bottom_menu.xml" value="0.13802083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
